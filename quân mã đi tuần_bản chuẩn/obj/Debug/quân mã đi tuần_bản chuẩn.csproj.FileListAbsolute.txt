@@ -1,0 +1,9 @@
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\bin\Debug\quân mã đi tuần_bản chuẩn.exe.config
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\bin\Debug\quân mã đi tuần_bản chuẩn.exe
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\bin\Debug\quân mã đi tuần_bản chuẩn.pdb
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\obj\Debug\quân mã đi tuần_bản chuẩn.csprojResolveAssemblyReference.cache
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\obj\Debug\quân_mã_đi_tuần_bản_chuẩn.Form1.resources
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\obj\Debug\quân_mã_đi_tuần_bản_chuẩn.Properties.Resources.resources
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\obj\Debug\quân mã đi tuần_bản chuẩn.csproj.GenerateResource.Cache
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\obj\Debug\quân mã đi tuần_bản chuẩn.exe
+E:\c# winform\CODE_ThuatToanQuayLui_DeQui\quân mã đi tuần_bản chuẩn\quân mã đi tuần_bản chuẩn\obj\Debug\quân mã đi tuần_bản chuẩn.pdb
